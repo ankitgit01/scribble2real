@@ -1,0 +1,21 @@
+{
+  "BAD_INPUT": "That input could not be used. Check it and try again.",
+  "PROMPT_BLOCKED": "Please change your prompt and try a safe, workshop-friendly idea.",
+  "UNAUTHORIZED": "That mentor PIN was not accepted.",
+  "CLIENT_BLOCKED": "This device has been paused by a mentor.",
+  "JOB_NOT_FOUND": "That image job could not be found. Please start again.",
+  "RATE_LIMITED": "Please wait a moment before trying again.",
+  "QUEUE_FULL": "The workshop image queue is full. Please try again shortly.",
+  "MODEL_NOT_READY": "The image model is still starting. Please try again in a moment.",
+  "QUOTA_EXHAUSTED": "The explanation service has reached today's workshop limit.",
+  "PAUSED_BY_MENTOR": "The mentor has paused new image requests.",
+  "LEARN_DISABLED": "Explanations are currently turned off by the mentor.",
+  "LEARN_UNAVAILABLE": "The explanation service is temporarily unavailable.",
+  "SAFETY_BLOCKED": "The image was stopped by the safety check. Try a different sketch or prompt.",
+  "GPU_OUT_OF_MEMORY": "The laptop ran out of graphics memory. Try Fast quality or ask your mentor for help.",
+  "GENERATION_TIMEOUT": "The image took too long. Try Fast quality and submit again.",
+  "GENERATION_FAILED": "The image could not be created. Please try again.",
+  "TIMEOUT": "The image took too long to create. Please try again.",
+  "CANCELLED": "The image request was cancelled.",
+  "NETWORK_ERROR": "The server could not be reached. Check your connection and try again."
+}

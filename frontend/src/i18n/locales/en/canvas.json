@@ -1,0 +1,20 @@
+{
+  "heading": "Drawing canvas",
+  "toolbar": "Canvas tools",
+  "tools": "Drawing tools",
+  "brush": "Brush",
+  "pencil": "Pencil",
+  "eraser": "Eraser",
+  "size": "Size",
+  "color": "Drawing color",
+  "history": "Undo and redo",
+  "undo": "Undo",
+  "redo": "Redo",
+  "clear": "Clear layer",
+  "confirmClear": "Clear the active layer? You can undo this action.",
+  "view": "Canvas view controls",
+  "zoomIn": "Zoom in",
+  "zoomOut": "Zoom out",
+  "resetView": "Reset zoom and pan",
+  "help": "Draw with a mouse, touch, or stylus. Use the wheel or pinch to zoom, and hold Space while dragging to pan."
+}

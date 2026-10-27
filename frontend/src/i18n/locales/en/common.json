@@ -1,0 +1,18 @@
+{
+  "nickname": "Nickname",
+  "nicknameOptional": "Nickname (optional)",
+  "mentor": "Mentor dashboard",
+  "lightTheme": "Switch to light theme",
+  "darkTheme": "Switch to dark theme",
+  "drawingWorkspace": "Drawing workspace",
+  "results": "Generated result and learning panel",
+  "privacyLink": "Privacy Policy",
+  "privacyTitle": "A quick privacy note",
+  "privacyNotice": "Your mentors can see what you draw and type here. Please don't write personal details such as your name, phone number or school. Explanations are produced by an online AI service (Google Gemini).",
+  "understood": "I understand",
+  "connecting": "Connecting to the workshop…",
+  "serverUnreachable": "The workshop server is unreachable. Check your connection and try again.",
+  "workshopPaused": "The workshop is paused by your mentor.",
+  "retryAfter": "Please try again in {seconds} seconds.",
+  "dismiss": "Dismiss"
+}

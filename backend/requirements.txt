@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+httpx
+pillow
+qrcode[pil]
+numpy
+opencv-python-headless
+diffusers>=0.35,<0.36
+transformers>=4.45,<5
+accelerate>=1.2
+peft>=0.13
+safetensors>=0.4
+pytest
+pytest-asyncio

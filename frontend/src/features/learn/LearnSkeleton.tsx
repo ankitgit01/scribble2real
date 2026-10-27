@@ -1,0 +1,2 @@
+import { t } from '../../i18n'
+export default function LearnSkeleton() { return <div role="status" aria-label={t('learn.loading')} className="animate-pulse space-y-3 rounded-xl bg-surface-alt p-4 dark:bg-slate-800 motion-reduce:animate-none"><div className="h-4 w-1/3 rounded bg-slate-200 dark:bg-slate-700" /><div className="h-3 w-full rounded bg-slate-200 dark:bg-slate-700" /><div className="h-3 w-5/6 rounded bg-slate-200 dark:bg-slate-700" /><div className="h-3 w-2/3 rounded bg-slate-200 dark:bg-slate-700" /></div> }

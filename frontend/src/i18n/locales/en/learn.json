@@ -1,0 +1,17 @@
+{
+  "heading": "Learn from your sketch",
+  "idleHint": "Your sketch can spark a question. Tap Magic to get a short explanation here.",
+  "loading": "Writing an explanation",
+  "error": "Couldn't write the explanation this time. Your image is fine.",
+  "disabled": "Your mentor turned explanations off.",
+  "yourQuestion": "Your question",
+  "keyFacts": "A few key facts",
+  "howItWorks": "How it works",
+  "relatedTopics": "Related topics",
+  "lowConfidence": "I'm not sure what this is yet, but here's what I can make out.",
+  "addDetail": "Add a few details to your sketch and try again.",
+  "safetyTitle": "Let's try another idea",
+  "safetyRedirect": "I can't help explain this request. Choose a safe subject from science, design, or everyday life.",
+  "offTopicRedirect": "Let's bring this back to a learning-friendly sketch. Try an object, animal, place, or design.",
+  "aiNote": "AI-generated · Double-check important facts"
+}
